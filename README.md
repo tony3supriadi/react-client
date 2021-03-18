@@ -11,5 +11,4 @@ npm start
 
 ## Rails Server
 
-repositories: 
 `https://github.com/tony3supriadi/rails-api-server.git`
