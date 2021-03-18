@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-    faArrowLeft, faEdit, faPlusCircle, faSave, faTable
+    faArrowLeft, faEdit, faSave, faTable
 } from "@fortawesome/free-solid-svg-icons";
 
 import bookService from "../services/book.service";
