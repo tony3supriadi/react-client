@@ -54,7 +54,7 @@ class BookComponent extends Component {
 
         return (
             <div>
-                <Link to={"/create"} className="btn btn-primary mb-3">
+                <Link to={"/books/create"} className="btn btn-primary mb-3">
                     <FontAwesomeIcon icon={faPlusCircle} className="mr-2" />
                     Create New
                 </Link>
